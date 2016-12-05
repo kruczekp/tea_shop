@@ -3,6 +3,7 @@ class Tea < ApplicationRecord
   validates :price, presence: true, numericality: { less_than: 10_000_000 }
   validates :quantity, presence: true, numericality: { integer_only: true, greater_than_or_equal_to: 0 }
 
+  # just to make random generation easier, not for real life applications of course
   FAKE_IMAGES = %w{
     http://listz.in/wp-content/uploads/2015/01/lipton.jpg
     http://listz.in/wp-content/uploads/2015/01/red-label.jpg
