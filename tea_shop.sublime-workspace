@@ -1,0 +1,1837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"partner",
+				"partners_info_file"
+			],
+			[
+				"par",
+				"partners_info_file"
+			],
+			[
+				"part",
+				"partners_file"
+			],
+			[
+				"error",
+				"error_messages"
+			],
+			[
+				"password_conf",
+				"password_confirmation"
+			],
+			[
+				"sta",
+				"start_date"
+			],
+			[
+				"drection",
+				"flex-direction"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"label",
+				"label-color"
+			],
+			[
+				"brand",
+				"brand-purple-dark"
+			],
+			[
+				"dark",
+				"dark_api_config"
+			],
+			[
+				"langu",
+				"language_select"
+			],
+			[
+				"ans",
+				"answer-letter"
+			],
+			[
+				"input",
+				"focusInput"
+			],
+			[
+				"D",
+				"DATABASE_PATH"
+			],
+			[
+				"course_i",
+				"course_ids"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"flex-",
+				"flex-grow"
+			],
+			[
+				"placeho",
+				"placeholder_index"
+			],
+			[
+				"backup_",
+				"backup_folder"
+			],
+			[
+				"tra",
+				"translations"
+			],
+			[
+				"lesson_",
+				"lesson_contents"
+			],
+			[
+				"lesson",
+				"lesson_contents"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"gr",
+				"color-green"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tar",
+				"targetDate"
+			],
+			[
+				"daft",
+				"daftpay_adapter"
+			],
+			[
+				"Daft",
+				"DaftPayAdapter"
+			],
+			[
+				"card",
+				"cardholder"
+			],
+			[
+				"payme",
+				"payment_data_params"
+			],
+			[
+				"pa",
+				"credit_card_params"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"Pass",
+				"password_confirmation"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"phrase",
+				"phrase_update_params"
+			],
+			[
+				"trans",
+				"translation_fields"
+			],
+			[
+				"mist",
+				"mistake"
+			],
+			[
+				"mistake",
+				"mistake_counter"
+			],
+			[
+				"update",
+				"update_known_phrases"
+			],
+			[
+				"answer",
+				"answer_inputs"
+			],
+			[
+				"incorre",
+				"incorrectLetter"
+			],
+			[
+				"completion",
+				"completion_bar"
+			],
+			[
+				"ke",
+				"keyCode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "db/migrate/20161129071348_create_teas.rb",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Kruczek/Desktop/examples/asd.rb",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/application.rb",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/teas_controller.rb",
+			"settings":
+			{
+				"buffer_size": 433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/popular_teas_controller.rb",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix",
+				"name": "class PopularTeasController"
+			}
+		},
+		{
+			"file": "app/controllers/baskets_controller.rb",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/services/filter_query.rb",
+			"settings":
+			{
+				"buffer_size": 657,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/tea.rb",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pay",
+				"Package Control: Add Repository"
+			],
+			[
+				"ga",
+				"Git: Add All"
+			],
+			[
+				"syntax ry",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"bea",
+				"BeautifyRuby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kruczek/Documents/edu/tea_shop/bin/update",
+		"/Users/Kruczek/Documents/edu/tea_shop/db/schema.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/app/controllers/application_controller.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/app/controllers/teas_controller.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/app/services/filter_query.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/lib/services/dupa.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/Gemfile",
+		"/Users/Kruczek/Documents/edu/tea_shop/config/database.yml",
+		"/Users/Kruczek/Documents/edu/tea_shop/app/services/dupa.rb",
+		"/Users/Kruczek/Documents/edu/tea_shop/.ruby-gemset",
+		"/Users/Kruczek/Documents/edu/dev_api/.ruby-version",
+		"/Users/Kruczek/Documents/edu/dev_api/.ruby-gemset",
+		"/Users/Kruczek/Documents/work/livefeed/app/mailers/support_mailer.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/initializers/mailer.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/application.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/environments/development.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/deploy.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/supports/show.haml",
+		"/Users/Kruczek/Documents/work/livefeed/config/deploy/staging.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_header.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_support.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/support_message.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/supports_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/mailers/application_mailer.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/mailer.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/javascripts/application.coffee",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/javascripts/dropdown_handler.coffee",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/javascripts/feed_scaler.coffee",
+		"/Users/Kruczek/Documents/work/livefeed/config/locales/en.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_account.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_footer.sass",
+		"/Users/Kruczek/Desktop/examples/focus.txt",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/supports/_livechat.html",
+		"/Users/Kruczek/Documents/work/flash/config/initializers/mailer.rb",
+		"/Users/Kruczek/Documents/work/flash/config/mailer.yml",
+		"/Users/Kruczek/Documents/work/livefeed/config/environments/production.rb",
+		"/Users/Kruczek/Documents/work/livefeed/lib/app_config.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/leagues_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/locales/fr.yml",
+		"/Users/Kruczek/Documents/work/livefeed/config/locales/es.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/leagues/_feed.haml",
+		"/Users/Kruczek/Documents/work/livefeed/config/routes.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/initializers/devise.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/league.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/prepare_account.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/api/registrations_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/layouts/mailer.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/support_mailer/contact_support.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/application_controller.rb",
+		"/Users/Kruczek/Desktop/examples/shit.rb",
+		"/Users/Kruczek/Desktop/examples/dating_apps.rb",
+		"/Users/Kruczek/Desktop/examples/gunther",
+		"/Users/Kruczek/Desktop/examples/asd.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/supports/livechat.html",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/mailer/reset_password_instructions.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_base.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/vars.sass",
+		"/Users/Kruczek/Documents/work/livefeed/lib/cloud_flare_middleware.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/finalize_account.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/ipis_check.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/models/subscription.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/models/user.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/subscriptions_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/leagues/show.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/registrations/edit.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/config/database.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/helpers/application_helper.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/home_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/languages_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/layouts/application.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/Gemfile",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/api/fails_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/initializers/payments_adapter.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/api/validations_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/api/base_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/schema.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20161109090741_modify_user_reference_in_subscription.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/evox_adapter.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_form.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/leagues/_dpa_component.haml",
+		"/Users/Kruczek/Documents/work/livefeed/config/evox.yml",
+		"/Users/Kruczek/Documents/work/livefeed/config/app_config.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/services/account_creator.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/deploy/production.rb",
+		"/Users/Kruczek/Documents/work/livefeed/bin/update",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/api/tester_registrations_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/static_pages/terms_of_service.haml",
+		"/Users/Kruczek/Documents/work/livefeed/config/initializers/errbit.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/static_pages/privacy_policy.haml",
+		"/Users/Kruczek/Documents/work/perfectgym_crawler/gympass.rb",
+		"/Users/Kruczek/Documents/work/perfectgym_crawler/kfit.rb",
+		"/Users/Kruczek/Documents/work/perfectgym_crawler/crawler.rb",
+		"/Users/Kruczek/Desktop/billing_info.rb",
+		"/Users/Kruczek/Documents/work/livefeed/.ruby-version",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160923104024_add_subscription_check_to_user.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/locales/devise.en.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/dpa_components/dpa_app.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/javascripts/iframe.coffee",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/users/registrations/edit.haml",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160922150202_add_subscription_id_to_subscription.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160921104356_upgrade_subscriptions.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160921105528_add_tester_to_user.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/seeds.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160920131141_create_subscriptions.rb",
+		"/Users/Kruczek/Documents/work/livefeed/config/secrets.yml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/application.sass",
+		"/Users/Kruczek/Documents/work/livefeed/config/initializers/assets.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/passwords/edit.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/sessions/new.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/passwords/new.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/Capfile",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_buttons.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_box.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/images/flags/France.svg",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/users/registrations_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/application/_subheaders.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_layout.sass",
+		"/Users/Kruczek/Documents/work/livefeed/public/dpa/my_fb_mpd/feed/style.css",
+		"/Users/Kruczek/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Kruczek/Documents/work/livefeed/livefeed.sublime-project",
+		"/Users/Kruczek/Documents/work/livefeed/app/views/devise/shared/_links.html.haml",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/iframe.sass",
+		"/Users/Kruczek/Documents/work/livefeed/tmp/cache/assets/sprockets/v3.0/5f/5FY0qxBDn4HDa_oU6pWjvBDlJPcj0XJ6i_tlISiR6Xc.cache",
+		"/Users/Kruczek/Documents/work/livefeed/app/controllers/static_pages_controller.rb",
+		"/Users/Kruczek/Documents/work/livefeed/db/migrate/20160909125952_add_auth_token_to_user.rb",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/components/_feed.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/dpa_components/dpa_live.sass",
+		"/Users/Kruczek/Documents/work/livefeed/app/assets/stylesheets/dpa_components/dpa_conference.sass"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session",
+			"cookies",
+			"session",
+			".to_s",
+			"scope.",
+			"scope, ",
+			".account",
+			"items",
+			"item",
+			"right-side",
+			";",
+			"display: none",
+			"display:none",
+			"lgmin",
+			"mobile-menu",
+			"support",
+			".phone",
+			"config.action_mailer",
+			"config",
+			".mailer",
+			"self.",
+			"@@{",
+			"get_",
+			"set_",
+			".message",
+			"message",
+			"tinder",
+			"Tinder",
+			"tinder",
+			"$footer-height",
+			"body",
+			"#support",
+			"feed",
+			"Evox",
+			"league",
+			"entry",
+			"@league.id",
+			"league_id",
+			"form-field",
+			"cancel",
+			"migrate",
+			"head ",
+			"head",
+			"my_",
+			"/ -# ",
+			"customer",
+			"dpa_timeline",
+			"land",
+			"debugg",
+			"#dev",
+			"EvoxAdapter",
+			"instant",
+			"instantscores",
+			"instant",
+			"InstantScores",
+			"instantscores",
+			"InstantScores",
+			"instantscores",
+			"InstantScores",
+			"instantscores",
+			"instant",
+			"week",
+			"month",
+			"\"",
+			"partners_info_file",
+			"Daftpay",
+			"DaftPay",
+			"authenticate_user",
+			"Evox",
+			"update",
+			"alter",
+			"email",
+			"keyframes",
+			"autoload",
+			".ip",
+			":check",
+			"password",
+			"email",
+			"assets",
+			"# ",
+			"f.",
+			";",
+			":password",
+			"password",
+			"#content",
+			"spacing",
+			"linear",
+			"#content",
+			"option",
+			"options",
+			"asd",
+			"body",
+			"asd",
+			"header",
+			"#content",
+			"option",
+			"7b8695",
+			".box",
+			"#content",
+			"ececec",
+			"body",
+			"generate_token",
+			"dpa-ticker",
+			"setInterval",
+			"setLoading",
+			"setLoa",
+			"dpa_loading",
+			".dpa_loading",
+			".dpa_content",
+			"dpa_loading",
+			"dpa_timeline",
+			".dpa_conference-game",
+			".dpa_conference-game > *",
+			"max-height",
+			"transition",
+			"\n",
+			"'",
+			"package ",
+			".dpa_content-menu-btn-icon",
+			"%\n",
+			"../..",
+			"p",
+			"linguotica",
+			"linguo",
+			"linguotica",
+			"%",
+			"384477",
+			"class: "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "db/migrate/20161129071348_create_teas.rb",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Kruczek/Desktop/examples/asd.rb",
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/seeds.rb",
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1353,
+								1353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "db/schema.rb",
+					"settings":
+					{
+						"buffer_size": 1366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/application.rb",
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/teas_controller.rb",
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/controllers/popular_teas_controller.rb",
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class PopularTeasController",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "app/controllers/baskets_controller.rb",
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/services/filter_query.rb",
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/models/tea.rb",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/controllers/baskets_controller.rb",
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"apprb",
+				"config/application.rb"
+			],
+			[
+				"baske",
+				"app/controllers/baskets_controller.rb"
+			],
+			[
+				"update",
+				"bin/update"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"popu",
+				"app/controllers/popular_teas_controller.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"",
+				"app/controllers/teas_controller.rb"
+			],
+			[
+				"bask",
+				"app/controllers/basket_controller.rb"
+			],
+			[
+				"applicon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"teascon",
+				"app/controllers/teas_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"filter",
+				"app/services/filter_query.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"tea",
+				"app/models/tea.rb"
+			],
+			[
+				"createte",
+				"db/migrate/20161129071348_create_teas.rb"
+			],
+			[
+				"suppsass",
+				"app/assets/stylesheets/components/_support.sass"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"suppsho",
+				"app/views/supports/show.haml"
+			],
+			[
+				"drhan",
+				"app/assets/javascripts/dropdown_handler.coffee"
+			],
+			[
+				"coffee",
+				"app/assets/javascripts/application.coffee"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"feedsc",
+				"app/assets/javascripts/feed_scaler.coffee"
+			],
+			[
+				"header",
+				"app/assets/stylesheets/components/_header.sass"
+			],
+			[
+				"applay",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"footer",
+				"app/assets/stylesheets/components/_footer.sass"
+			],
+			[
+				"account",
+				"app/assets/stylesheets/components/_account.sass"
+			],
+			[
+				"suppor",
+				"app/assets/stylesheets/components/_support.sass"
+			],
+			[
+				"suppshow",
+				"app/views/supports/show.haml"
+			],
+			[
+				"deplosta",
+				"config/deploy/staging.rb"
+			],
+			[
+				"maile",
+				"config/initializers/mailer.rb"
+			],
+			[
+				"appmailer",
+				"app/mailers/application_mailer.rb"
+			],
+			[
+				"mailer",
+				"config/initializers/mailer.rb"
+			],
+			[
+				"apphaml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"mail",
+				"config/mailer.yml"
+			],
+			[
+				"mailyml",
+				"config/mailer.yml"
+			],
+			[
+				"support",
+				"app/views/supports/_livechat.html"
+			],
+			[
+				"dep",
+				"config/deploy.rb"
+			],
+			[
+				"envdev",
+				"config/environments/development.rb"
+			],
+			[
+				"appmail",
+				"app/mailers/application_mailer.rb"
+			],
+			[
+				"suppcon",
+				"app/controllers/supports_controller.rb"
+			],
+			[
+				"suppmess",
+				"app/services/support_message.rb"
+			],
+			[
+				"suppmai",
+				"app/mailers/support_mailer.rb"
+			],
+			[
+				"env",
+				"config/environments/production.rb"
+			],
+			[
+				"live",
+				"app/views/supports/_livechat.html"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"leagues",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"feed",
+				"app/views/leagues/_feed.haml"
+			],
+			[
+				"leag",
+				"app/services/league.rb"
+			],
+			[
+				"leg",
+				"app/services/league.rb"
+			],
+			[
+				"leagcon",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"prepareacc",
+				"app/services/prepare_account.rb"
+			],
+			[
+				"regcon",
+				"app/controllers/api/registrations_controller.rb"
+			],
+			[
+				"es",
+				"config/locales/es.yml"
+			],
+			[
+				"fr.yml",
+				"config/locales/fr.yml"
+			],
+			[
+				"applama",
+				"app/views/layouts/mailer.html.haml"
+			],
+			[
+				"suppmail",
+				"app/mailers/support_mailer.rb"
+			],
+			[
+				"cloud",
+				"lib/cloud_flare_middleware.rb"
+			],
+			[
+				"leagsh",
+				"app/views/leagues/show.html.haml"
+			],
+			[
+				"leacon",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"appconf",
+				"lib/app_config.rb"
+			],
+			[
+				"helpe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"prepa",
+				"app/services/prepare_account.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"edit",
+				"app/views/devise/registrations/edit.html.haml"
+			],
+			[
+				"fr",
+				"config/locales/fr.yml"
+			],
+			[
+				"applicationcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"subscription",
+				"app/controllers/subscriptions_controller.rb"
+			],
+			[
+				"finalize",
+				"app/services/finalize_account.rb"
+			],
+			[
+				"subs",
+				"app/models/subscription.rb"
+			],
+			[
+				"prep",
+				"app/services/prepare_account.rb"
+			],
+			[
+				"ipis",
+				"app/services/ipis_check.rb"
+			],
+			[
+				"modi",
+				"db/migrate/20161109090741_modify_user_reference_in_subscription.rb"
+			],
+			[
+				"subscrip",
+				"app/models/subscription.rb"
+			],
+			[
+				"apiregcon",
+				"app/controllers/api/registrations_controller.rb"
+			],
+			[
+				"applliccon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"apibase",
+				"app/controllers/api/base_controller.rb"
+			],
+			[
+				"validation",
+				"app/controllers/api/validations_controller.rb"
+			],
+			[
+				"deploy",
+				"config/deploy.rb"
+			],
+			[
+				"adap",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"evoxada",
+				"app/services/evox_adapter.rb"
+			],
+			[
+				"app.rb",
+				"config/application.rb"
+			],
+			[
+				"prepare",
+				"app/services/prepare_account.rb"
+			],
+			[
+				"appliccon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appconrto",
+				"app/controllers/api/registrations_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"valida",
+				"app/controllers/api/validations_controller.rb"
+			],
+			[
+				"evox",
+				"app/services/evox_adapter.rb"
+			],
+			[
+				"accou",
+				"app/services/account_creator.rb"
+			],
+			[
+				"language",
+				"app/controllers/languages_controller.rb"
+			],
+			[
+				"_dpa",
+				"app/views/leagues/_dpa_component.haml"
+			],
+			[
+				"enyml",
+				"config/locales/en.yml"
+			],
+			[
+				"leaguecon",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"homecon",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"apconr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"yml",
+				"config/locales/en.yml"
+			],
+			[
+				"vars",
+				"app/assets/stylesheets/vars.sass"
+			],
+			[
+				"pay",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"payment",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"appht",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"subcon",
+				"app/controllers/subscriptions_controller.rb"
+			],
+			[
+				"appr",
+				"config/application.rb"
+			],
+			[
+				"depl",
+				"config/deploy.rb"
+			],
+			[
+				"homcon",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"show",
+				"app/views/leagues/show.html.haml"
+			],
+			[
+				"conreg",
+				"app/controllers/api/registrations_controller.rb"
+			],
+			[
+				"leagueshow",
+				"app/views/leagues/show.html.haml"
+			],
+			[
+				"league",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"payments",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"payme",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"regist",
+				"app/controllers/api/registrations_controller.rb"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"paym",
+				"config/initializers/payments_adapter.rb"
+			],
+			[
+				"evoxad",
+				"app/services/evox_adapter.rb"
+			],
+			[
+				"accoute",
+				"app/services/account_creator.rb"
+			],
+			[
+				"acctcr",
+				"app/services/account_creator.rb"
+			],
+			[
+				"tem",
+				"app/views/static_pages/terms_of_service.haml"
+			],
+			[
+				"privac",
+				"app/views/static_pages/privacy_policy.haml"
+			],
+			[
+				"deppro",
+				"config/deploy/production.rb"
+			],
+			[
+				"accout",
+				"app/services/account_creator.rb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"apph",
+				"app/views/layouts/application.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"live",
+				"/Users/Kruczek/Documents/work/livefeed/livefeed.sublime-project"
+			],
+			[
+				"livefee",
+				"/Users/Kruczek/Documents/work/livefeed/livefeed.sublime-project"
+			],
+			[
+				"flash",
+				"/Users/Kruczek/Documents/work/flash/app/controllers/api/flash.sublime-project"
+			],
+			[
+				"tea",
+				"/Users/Kruczek/Documents/edu/tea_shop/tea_shop.sublime-project"
+			],
+			[
+				"bran",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"brain",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"fl",
+				"/Users/Kruczek/Documents/work/flash/app/controllers/api/flash.sublime-project"
+			],
+			[
+				"kan",
+				"/Users/Kruczek/Documents/work/kanban/kanban.sublime-project"
+			],
+			[
+				"pay ad",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"payments",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"paym",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"paymen",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"pay ada",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"pay dem",
+				"/Users/Kruczek/Documents/work/payments_demo/payments_demo.sublime-project"
+			],
+			[
+				"pay de",
+				"/Users/Kruczek/Documents/work/payments_demo/payments_demo.sublime-project"
+			],
+			[
+				"pay",
+				"/Users/Kruczek/Documents/work/payments_demo/payments_demo.sublime-project"
+			],
+			[
+				"",
+				"/Users/Kruczek/Documents/work/payments_demo/payments_demo.sublime-project"
+			],
+			[
+				"pd",
+				"/Users/Kruczek/Documents/work/payments_demo/payments_demo.sublime-project"
+			],
+			[
+				"bra",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"s",
+				"/Users/Kruczek/Documents/work/saas/sass.sublime-project"
+			],
+			[
+				"saas",
+				"/Users/Kruczek/Documents/work/saas/sass.sublime-project"
+			],
+			[
+				"flaash",
+				"/Users/Kruczek/Documents/work/flash/flash.sublime-project"
+			],
+			[
+				"apy",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"payme",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"br",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"fla",
+				"/Users/Kruczek/Documents/work/flash/flash.sublime-project"
+			],
+			[
+				"payment",
+				"/Users/Kruczek/Documents/work/payments_adapter/payments_adapter.sublime-project"
+			],
+			[
+				"flas",
+				"/Users/Kruczek/Documents/work/flash/flash.sublime-project"
+			],
+			[
+				"esc",
+				"/Users/Kruczek/Documents/work/escape_room/escape_room.sublime-project"
+			],
+			[
+				"brin",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"juv",
+				"/Users/Kruczek/Documents/work/juvo/juvo.sublime-project"
+			],
+			[
+				"juvo",
+				"/Users/Kruczek/Documents/work/juvo/juvo.sublime-project"
+			],
+			[
+				"ju",
+				"/Users/Kruczek/Documents/work/juvo/juvo.sublime-project"
+			],
+			[
+				"car",
+				"/Users/Kruczek/Documents/work/escape_room/config/initializers/caritas.sublime-project"
+			],
+			[
+				"c",
+				"/Users/Kruczek/Documents/work/escape_room/config/initializers/caritas.sublime-project"
+			],
+			[
+				"cari",
+				"/Users/Kruczek/Documents/work/escape_room/config/initializers/caritas.sublime-project"
+			],
+			[
+				"es",
+				"/Users/Kruczek/Documents/work/escape_room/escape_room.sublime-project"
+			],
+			[
+				"ca",
+				"/Users/Kruczek/Documents/work/escape_room/config/initializers/caritas.sublime-project"
+			],
+			[
+				"esc	",
+				"/Users/Kruczek/Documents/work/escape_room/escape_room.sublime-project"
+			],
+			[
+				"escape",
+				"/Users/Kruczek/Documents/work/escape_room/escape_room.sublime-project"
+			],
+			[
+				"esca",
+				"/Users/Kruczek/Documents/work/escape_room/escape_room.sublime-project"
+			],
+			[
+				"b",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"bri",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"brainer",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"braub",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			],
+			[
+				"brai",
+				"/Users/Kruczek/Documents/work/brain/brain.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true
+}
